@@ -1,3 +1,3 @@
-## Data Science Project Template
+## Data Science ML Project Template
 
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+This is a project template for building Machine Learning models. To use, clone and install the requirements.
